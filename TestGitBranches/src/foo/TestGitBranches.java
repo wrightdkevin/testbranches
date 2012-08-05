@@ -15,6 +15,7 @@ public class TestGitBranches {
 	
 	private static void printMe(){
 		System.out.println("print me"); 
+		System.out.println("second line of printMe");
 	}
 
 }
